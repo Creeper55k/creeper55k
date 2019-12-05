@@ -1,0 +1,11 @@
+{
+  "name": "creeper55k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "author": "Creeper55k",
+  "license": "ISC"
+}
